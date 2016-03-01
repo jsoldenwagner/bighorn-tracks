@@ -64,4 +64,4 @@ var NPMap = {
   maxZoom: 15
 };
 ```
-When you update the GPS track you will most likely need to reset the `center` and `zoom`.  Coordinates for the `center` can be obtained by using [Google Maps](https://www.google.com/maps) right-click `What's here?` feature.
+When you update the GPS track you will most likely need to reset the `center` and `zoom`.  Coordinates for the `center` can be obtained by using [Google Maps](https://www.google.com/maps) right-click `What's here?` feature. Simply mouse over a point that would be a good `center`, right-click and select `What's here?`, then click on the coordinates to copy and paste the `lat` and `lng`.
