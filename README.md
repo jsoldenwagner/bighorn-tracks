@@ -5,4 +5,4 @@ A guide to updating the animated bighorn map.
   
   http://github.com/nationalparkservice/projects/tree/gh-pages/yose/sierra-nevada-bighorn-sheep
   
-  [read more words](bighorn-tracks/mapScripts.jpg)
+  [read more words](mapScripts.jpg)
