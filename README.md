@@ -10,7 +10,7 @@ http://github.com/nationalparkservice/projects/tree/gh-pages/yose/sierra-nevada-
 The initial map is linked to app.js. Additional maps are linked to map2.js, map3.js, and map4.js. 
 These maps can be published to nps.gov pages by referencing their assigned ID's. NPMap ID's are assigned by Nate Irwin and more can be requested by contacting Nate via email at nate_irwin@nps.gov.
   
-##To Edit An Existing Map: 
+###To Edit An Existing Map: 
 
 Click on the {your map name goes here}.js file that you want to edit, map2.js in this tutorial, and then select 
 the pen icon to make edits:
@@ -66,3 +66,26 @@ var NPMap = {
 ```
 When you update the GPS track you will most likely need to reset the `center` and `zoom`.  Coordinates for the `center` can be obtained by using [Google Maps](https://www.google.com/maps) right-click `What's here?` feature. Simply mouse over a point that would make a good `center`, right-click and select `What's here?`, then click on the coordinates to copy and paste the `lat` and `lng`. 
 The `zoom` level can range from 1 to 15, with greater numbers indicating a greater zoom (`zoom: 1` being completely zoomed out).
+###Setting the Text for the Time-Slider Control
+The text for the time-slider can be found in the `hooks` property of the `NPMap` variable:
+```javascript
+var NPMap = {
+  div: 'map',
+  [...]
+  hooks: {
+    init: function (callback) {
+      [...]
+      $(document).ready(function () {
+        $('div.leaflet-bottom.leaflet-left').prepend('<p><b>EWE S375: 5/17/2015 to 7/5/2015</b></p>');
+      });
+      callback();
+    }
+  },
+  [...]
+  zoom: 13,
+  maxZoom: 15
+};
+```
+In this example the text above the time-slider is set by the HTML: `<p><b>EWE S375: 5/17/2015 to 7/5/2015</b></p>`.
+Set the text for the animal and date range that corresponds to your GPS track.
+
