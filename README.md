@@ -11,4 +11,7 @@
   These maps can be published to nps.gov pages by referencing their assigned ID's. NPMap ID's are assigned by Nate Irwin and more can be requested by contacting Nate via email at nate_irwin@nps.gov.
   
 ### To Edit An Existing Map: 
-    In the `yose/sierra-nevada-bighorn-sheep repository`
+    In the 
+    ```
+    yose/sierra-nevada-bighorn-sheep repository
+    ```
