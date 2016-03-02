@@ -59,7 +59,7 @@ var NPMap = {
     lat: 37.744275,
     lng: -119.330004
   },
-  ...
+  [...]
   zoom: 13,
   maxZoom: 15
 };
@@ -88,4 +88,6 @@ var NPMap = {
 ```
 In this example the text above the time-slider is set by the HTML: `<p><b>EWE S375: 5/17/2015 to 7/5/2015</b></p>`.
 Set the text for the animal and date range that corresponds to your GPS track.
+###Creating a New Map
+To create a new map 
 
