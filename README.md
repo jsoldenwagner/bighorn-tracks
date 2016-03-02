@@ -145,5 +145,13 @@ The GeoJSON arrays of [long,lat] coordinates and UNIX timestamps needed to updat
 
 ![](screenshots/ZIP.jpg)
 
+The ui.R script requires the following R packages: `shiny`, `sp`, and `dplyr`. Install these packages from the RStudio command line:
+```R
+install.packages(c("shiny", "sp", "dplyr"))
+```
+Once these packages are installed simply go to the directory with the downloaded files and open `ui.R`. RStudio will open:
+
+![](screenshots/ui_R.jpg)
+
 
 
