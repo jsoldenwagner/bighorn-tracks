@@ -105,7 +105,8 @@ new file:
 Send an email to nate_irwin@nps.gov or npmap@nps.gov with the name of the new file and request a new NPMap ID.
 When you receive the ID, which will look something like `0301fc5d-d3db-4103-be9e-f296f2774a35`, paste it into the comments section at the top of your new file:
 
-![](screenshots/
+![](screenshots/comments.jpg)
+
 
 
 
