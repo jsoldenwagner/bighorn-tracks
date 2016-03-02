@@ -89,5 +89,7 @@ var NPMap = {
 In this example the text above the time-slider is set by the HTML: `<p><b>EWE S375: 5/17/2015 to 7/5/2015</b></p>`.
 Set the text for the animal and date range that corresponds to your GPS track.
 ###Creating a New Map
-To create a new map 
+To create a new map click on the `New file` button:
+![](screenshots/newFile.jpg)
+
 
