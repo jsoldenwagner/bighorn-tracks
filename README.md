@@ -137,4 +137,4 @@ attached `.csv` or `.txt` file and should look something like:
 [...]
 ```
 Use this new data to extend the current data set by appending it to the `gpsData.csv` file found in the `data` directory of this repository (Excel is useful for this purpose):
-
+![](screenshots/gpsData.csv)
