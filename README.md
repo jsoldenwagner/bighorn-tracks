@@ -110,8 +110,29 @@ When you receive the ID, which will look something like `0301fc5d-d3db-4103-be9e
 Congratulations! Your map is now live and can be viewed at `nps.gov/maps/full.html?mapId={paste your ID here}`.
 Your NPMap ID can be used by NPS web managers to embed your map in nps.gov pages.
 
-
-
-
-
-
+###Acquiring and Updating the Raw Data:
+The raw data comes from Dave German of the California Department of Fish and Wildlife (CDFW):
+```
+David German
+Research Analyst
+California Department of Fish and Wildlife
+787 North Main Street, Suite 220
+Bishop, CA 93514
+(760) 873 8536 (o)
+(760) 937 6203 (c)
+David.German@wildlife.ca.gov
+```
+Request new data from Dave via email.  Be sure to give him the most recent date in the current data set.  The data will arrive as an 
+attached `.csv` or `.txt` file and should look something like:
+```
+"S365","F","20150327","00:00:00","291937","4176270","Ca","37.7100725149946","-119.360377411937"
+"S366","F","20150327","00:00:00","292137","4176059","Ca","37.7082177034732","-119.358050025941"
+"S367","F","20150327","00:00:00","292145","4176075","Ca","37.708363609175","-119.357963910376"
+"S370","F","20150327","00:00:00","291699","4176374","Ca","37.7109550328541","-119.363105062366"
+"S373","F","20150327","00:00:14","292077.3","4176115","Ca","37.7087084815902","-119.358742602366"
+"S372","F","20150327","00:00:24","291643.6","4176348","Ca","37.7107082889349","-119.36372569515"
+"S368","F","20150327","00:00:40","292157","4176131","Ca","37.7088706499004","-119.357843871892"
+"S371","F","20150327","00:01:34","291893.4","4176214","Ca","37.7095582978477","-119.360855569136"
+"S367","F","20150327","04:00:00","292156","4176075","Ca","37.7083661041025","-119.357839220353"
+[...]
+```
