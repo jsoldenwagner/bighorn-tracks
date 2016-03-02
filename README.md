@@ -102,6 +102,8 @@ new file:
 
 ![](screenshots/commitNewFile.jpg)
 
+Send an email to nate_irwin@nps.gov with the name of the new file and request a new NPMap ID.
+
 
 
 
