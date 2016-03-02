@@ -90,7 +90,18 @@ In this example the text above the time-slider is set by the HTML: `<p><b>EWE S3
 Set the text for the animal and date range that corresponds to your GPS track.
 ###Creating a New Map
 To create a new map click on the `New file` button:
+
 ![](screenshots/newFile.jpg)
-Give the new {your map name goes here}.js file a fantastic name (ending in .js),then copy and paste the _entire_ code of an existing map or `template.js`.
+
+Give the new {your map name goes here}.js file a fantastic name (ending in .js), then copy and paste the _entire_ code of an existing map or `template.js`:
+
+![](screenshots/newFilePaste.jpg)
+
+Set the GPS track, `center`, `zoom`, and time-slider control text as described in this tutorial and commit the 
+new file:
+
+![](screenshots/commitNewFile.jpg)
+
+
 
 
