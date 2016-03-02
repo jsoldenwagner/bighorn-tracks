@@ -107,6 +107,9 @@ When you receive the ID, which will look something like `0301fc5d-d3db-4103-be9e
 
 ![](screenshots/comments.jpg)
 
+Congratulations! Your map is now live and can be viewed at `nps.gov/maps/full.html?mapId={paste your ID here}`.
+Your NPMap ID can be used by NPS web managers to embed your map in nps.gov pages.
+
 
 
 
