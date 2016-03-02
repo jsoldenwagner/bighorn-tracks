@@ -91,5 +91,7 @@ Set the text for the animal and date range that corresponds to your GPS track.
 ###Creating a New Map
 To create a new map click on the `New file` button:
 ![](screenshots/newFile.jpg)
+Give the new {your map name goes here}.js file a fantastic name (ending in .js), copy and paste the _entire_ code of an existing map
+or `template.js`
 
 
