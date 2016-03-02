@@ -136,3 +136,5 @@ attached `.csv` or `.txt` file and should look something like:
 "S367","F","20150327","04:00:00","292156","4176075","Ca","37.7083661041025","-119.357839220353"
 [...]
 ```
+Use this new data to extend the current data set by appending it to the `gpsData.csv` file found in the `data` directory of this repository (Excel is useful for this purpose):
+
