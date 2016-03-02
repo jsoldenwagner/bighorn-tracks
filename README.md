@@ -8,7 +8,7 @@ http://github.com/nationalparkservice/projects/tree/gh-pages/yose/sierra-nevada-
 ![](screenshots/mapScripts.jpg)
   
 The initial map is linked to app.js. Additional maps are linked to map2.js, map3.js, and map4.js. 
-These maps can be published to nps.gov pages by referencing their assigned ID's. NPMap ID's are assigned by Nate Irwin and more can be requested by contacting Nate via email at nate_irwin@nps.gov.
+These maps can be published to nps.gov pages by referencing their assigned ID's. NPMap ID's are assigned by Nate Irwin and more can be requested by contacting Nate via email at nate_irwin@nps.gov or npmap@nps.gov.
   
 ###To Edit An Existing Map: 
 
@@ -102,7 +102,11 @@ new file:
 
 ![](screenshots/commitNewFile.jpg)
 
-Send an email to nate_irwin@nps.gov with the name of the new file and request a new NPMap ID.
+Send an email to nate_irwin@nps.gov or npmap@nps.gov with the name of the new file and request a new NPMap ID.
+When you receive the ID, which will look something like `0301fc5d-d3db-4103-be9e-f296f2774a35`, paste it into the comments section at the top of your new file:
+
+![](screenshots/
+
 
 
 
