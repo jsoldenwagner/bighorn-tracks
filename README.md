@@ -1,7 +1,8 @@
 # bighorn-tracks
 ##A guide to updating the animated bighorn map:
 
-This is a guide to updating the bighorn map.  The map is created by a script (written in javascript) that lives here:
+This is a guide to updating the bighorn map.  The map is created by a script (written in javascript) that animates a single GPS track.
+The script lives here:
   
 http://github.com/nationalparkservice/projects/tree/gh-pages/yose/sierra-nevada-bighorn-sheep
   
