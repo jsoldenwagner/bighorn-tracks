@@ -8,7 +8,9 @@ http://github.com/nationalparkservice/projects/tree/gh-pages/yose/sierra-nevada-
 ![](screenshots/mapScripts.jpg)
   
 The initial map is linked to app.js. Additional maps are linked to map2.js, map3.js, and map4.js. 
-These maps can be embedded in nps.gov pages by referencing their assigned ID's. NPMap ID's are assigned by Nate Irwin and more can be requested by contacting Nate via email at nate_irwin@nps.gov or npmap@nps.gov.
+These maps can be embedded in nps.gov pages by referencing their assigned ID's. NPMap ID's are assigned by Nate Irwin and more can be requested by contacting Nate via email at nate_irwin@nps.gov or npmap@nps.gov. Maps can be viewed at the following url (your ID will be different):
+
+http://www.nps.gov/maps/full.html?mapId=c5ae5db1-86c2-4fe4-9b90-975d4dba9680
 
 ---
   
