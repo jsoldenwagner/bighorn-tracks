@@ -206,6 +206,9 @@ c(/*start copying here*/ 1427914858, 1427958043, 1428001370, 1428087651,
 ```
 ----------------------
 
-
+###Author
+Jim Soldenwagner
+* email: jim_soldenwagner@nps.gov, jim.soldenwagner@gmail.com
+* on github: @jsoldenwagner
 
 
