@@ -101,7 +101,7 @@ To create a new map click on the `New file` button:
 
 ![](screenshots/newFile.jpg)
 
-Give the new {your map name goes here}.js file a fantastic name (ending in .js), then copy and paste the _entire_ code of `singleTrackTemplate.js`:
+Give the new {your map name goes here}.js file a fantastic name (ending in .js), then copy and paste the _entire_ code of `singleTrackTemplate.js` (found in this repository):
 
 ![](screenshots/newFilePaste.jpg)
 
@@ -146,6 +146,7 @@ attached `.csv` or `.txt` file and should look something like:
 "S367","F","20150327","04:00:00","292156","4176075","Ca","37.7083661041025","-119.357839220353"
 [...]
 ```
+The order of the columns is important: animalID, sex, LMT_Date, LMT_Time, easting, northing, herdID, lat, long.
 Use this new data to extend the current data set by appending it to the `gpsData.csv` file found in the `data` directory of this repository (Excel is useful for this purpose):
 
 ![](screenshots/gpsData.jpg)
