@@ -101,7 +101,7 @@ To create a new map click on the `New file` button:
 
 ![](screenshots/newFile.jpg)
 
-Give the new {your map name goes here}.js file a fantastic name (ending in .js), then copy and paste the _entire_ code of an existing map or `template.js`:
+Give the new {your map name goes here}.js file a fantastic name (ending in .js), then copy and paste the _entire_ code of `singleTrackTemplate.js`:
 
 ![](screenshots/newFilePaste.jpg)
 
